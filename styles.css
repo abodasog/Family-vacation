@@ -37,3 +37,21 @@ h1{
   padding: 10px 15px;
   
 }
+
+p1{
+  width: 60%;
+  float: right;
+  background-color: #e80cbcc7;
+  border-style: groove;
+  color: #e0d9e0;
+}
+
+p2{
+  width: 450px;
+    float: right;
+    width: 50%;
+    border: solid black;
+    border-width: 1px;
+    background-color: rgb(2, 171, 238);
+    margin-bottom: 10px;
+}
