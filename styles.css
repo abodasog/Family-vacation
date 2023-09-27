@@ -1,0 +1,39 @@
+
+img{
+    inline-size: 100px;
+    margin: 2px;
+    padding: 4px;
+    zoom: 200%;
+    vertical-align: middle;
+    border: lightseagreen;
+    border-radius: 10px;
+    border-color: lightgreen;
+
+}
+
+h1{
+  color: blueviolet;
+  font-size: xx-large;
+}
+
+.img-fluid {
+    max-width: 200%;
+    height: auto;
+  }
+
+  body{
+    background-color: #add8e66f;
+    -ms-layout-grid: initial;
+    padding: 10px 20px;
+    margin-block: inherit;
+    margin: 10px 20px;
+    font-style: normal;
+}
+
+.navbar{
+  color: #fff;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 10px 15px;
+  
+}
